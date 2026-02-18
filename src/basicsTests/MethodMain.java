@@ -1,3 +1,5 @@
+package basicsTests;
+
 import java.util.Scanner;
 import methods.Calculator;
 

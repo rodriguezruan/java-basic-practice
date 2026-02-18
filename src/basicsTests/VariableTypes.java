@@ -1,3 +1,5 @@
+package basicsTests;
+
 public class VariableTypes {
     public static void main(String[] args) {
         double minimunSalary = 2500.00;

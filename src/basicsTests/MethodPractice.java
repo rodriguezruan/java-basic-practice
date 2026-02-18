@@ -1,3 +1,5 @@
+package basicsTests;
+
 public class MethodPractice {
     boolean ligada = false;
     int channel = 1;

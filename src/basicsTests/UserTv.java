@@ -1,3 +1,5 @@
+package basicsTests;
+
 public class UserTv {
     public static void main(String[] args) {
         MethodPractice smartTv = new MethodPractice();
